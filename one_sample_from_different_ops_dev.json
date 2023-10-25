@@ -1,0 +1,62 @@
+[
+    {
+        "news": "(Oct 5, 2011  12:11 PM CDT) Police are still hunting for an  armed and dangerous  man who shot and killed three people and wounded five others at the California quarry where he worked this morning. He also shot and injured another woman in an attempted carjacking later. The suspect is identified as 45-year-old Shareef Allman. The San Jose Mercury News says he moonlighted as producer of a show called Real 2 Real on something called CreaTV in the area. (He interviews Jesse Jackson in one YouTube clip, which is in the gallery. Allman, who spread a message of non-violence, also has written a book called Amazing Grace about female victims of domestic violence, notes the Mercury News. The shooting spree occurred about 4:30am local time when a man left a safety meeting at the Lehigh Southwest Cement Permanente Plant, then returned with a rifle and a handgun, according to police. He fled on foot, and a massive manhunt is under way in the San Jose area. Schools are on lockdown, notes AP.",
+        "masked headline": "____rd Victim Dead in Quarry Shooting; Manhunt Still On",
+        "calculation": "Trans(three)",
+        "ans": "3"
+    },
+    {
+        "news": "(Mar 4, 2014  11:30 AM) The New York Times followed the Best Picture win for 12 Years a Slave by tweeting a link to an 1853 article on Solomon Northup, the film's historical subject. The original article's lead describes what is to follow as  a more complete and authentic record than has yet appeared  on Northup's kidnapping. Authentic, perhaps, but erroneous: It spelled Northup's name wrong in two different ways. A Twitter user caught the errors, and now the Times has corrected them\u2014just 161 years late, Poynter reports. The article spelled Northup's last name as  Northrop,  while the headline spelled it  Northrup.",
+        "masked headline": "NYT Corrects 1853 Piece After ____ Years Win",
+        "calculation": "Copy(12)",
+        "ans": "12"
+    },
+    {
+        "news": "(Nov 4, 2008  3:19 PM) Stocks rallied on Election Day as investors applauded the looming conclusion to the presidential race, the Wall Street Journal reports. Continuing declines in interbank lending, and strong third-quarter earnings reports also fueled optimism, with the Dow rising 305.45 to close at 9,625.28. The Nasdaq climbed 53.79 closing at 1,780.12, while the S&P 500 gained 39.45 to settle at 1,005.75. The three-month US Libor dropped 0.10% to 2.706%, its 17th consecutive daily decline, signaling easing lending costs. Archer Daniels Midland rose 14.83% after the agricultural firm reported a doubling in third-quarter profit. MasterCard also shot up 18.2% despite reporting a quarterly loss of $194 million, because the loss was due to an antitrust penalty.",
+        "masked headline": "Stocks Up ____ in Election Rally",
+        "calculation": "Round(305.45,0)",
+        "ans": "305"
+    },
+    {
+        "news": "(Apr 4, 2012  9:15 AM CDT) Yahoo is slashing 2,000 jobs, or about 14% of its workforce, the company announced today, in a long-expected cost-cutting move. The cuts will hit every department in the company, and sources tell the Wall Street Journal that yet more cost reduction measures are in the works, as Yahoo continues to wrestle with flat revenue growth and declining traffic. But management did its best to put a positive spin on the changes.  Today's actions are an important next step toward a bold, new Yahoo\u2014smaller, nimbler, more profitable, and better equipped to innovate,  CEO Scott Thompson said. Thompson was hired in January with a mandate to cut costs and redouble efforts to improve Yahoo's advertising business. Executives admit some advertisers may be scared off by the layoffs, but say they'll give Yahoo the flexibility to invest in new services and businesses.",
+        "masked headline": "Yahoo Lays Off ____K Workers",
+        "calculation": "Paraphrase(2,000,K)",
+        "ans": "2"
+    },
+    {
+        "news": "(Mar 28, 2011  2:04 PM CDT) With more money pouring into tech funds and some huge valuations for IT companies, there are more and more signs that we're in another tech bubble. But there are also some big differences, notes the New York Times, which compares the tech boom of 1999 with that of 2010. For instance, many more people use the Internet now, around 2 billion, compared to less than 250 million 11 years before. And there isn't such an onslaught of tech IPOs: 308 in 1999, about half of all the IPOs in America that year, compared to just 20 last year. Most importantly, this new crop of tech start-ups has actual business models this time around. Groupon has been profitable since 2009 and Facebook's revenues continue to grow.  In those days, you had tiny, little companies going public that hardly had a business plan,  said a finance professor at Stanford University.  And now you\u2019re talking about only a few companies\u2014companies that are already global and with revenue.  And with a group so select, things won't go as badly if the bubble bursts, say some investors.",
+        "masked headline": "When It Comes to Tech Bubbles, 2011 Is Not ____",
+        "calculation": "Subtract(2011,11)",
+        "ans": "2000"
+    },
+    {
+        "news": "(Nov 7, 2008  3:49 AM) Over a million new American citizens took the oath of allegiance last year\u2014the highest number since the government began keeping records a century ago, reports CNN. The number of people going through the naturalization process has been steadily climbing for decades. The clearing of a major 2007 backlog\u2014along with a push by Hispanic media for citizenship for eligible residents\u2014helped boost the numbers.",
+        "masked headline": "____M New Citizens Break Century Record",
+        "calculation": "Span( a million)",
+        "ans": "1"
+    },
+    {
+        "news": "(Dec 19, 2008  11:00 AM) Treasury Secretary Henry Paulson called today for Congress to release the second half of the $700 billion bailout fund, but his plea isn\u2019t being echoed at the White House\u2014which would have to make the formal request, the Wall Street Journal reports.  It\u2019s not necessarily true that this administration, in the remaining 31 days, I believe, will go back to Congress,  an aide to President Bush said. With some of the $17.4 billion promised to US automakers hinging on the release of Trouble Asset Relief Program funds, Congress  will need to release the remainder of the TARP to support financial market stability,  Paulson said today. But whether President Bush or President Obama makes the request, it\u2019s likely to get a rough reception from lawmakers unhappy with Paulson\u2019s handling of his initial funds, Bloomberg notes.",
+        "masked headline": "Paulson Wants Next $____B, But Bush May Not Ask for It",
+        "calculation": "Divide(700,2)",
+        "ans": "350"
+    },
+    {
+        "news": "(Jun 13, 2011  1:17 PM CDT) We're guessing this waiter didn't walk away with a tip: A Tampa Bay server's attempt to serve bananas foster table-side ended up burning four diners, two of whom were hospitalized. The mishap happened Saturday night at Ozona Blue Grill in Palm Harbor, reports MyFox Tampa Bay.  The waiter was making a dessert dish that involved alcohol that goes in flames,  said a member of Palm Harbor Fire Rescue.  At one point, he was adding some more liquid to it, or more alcohol to it and it burned back to the bottle. When he lifted the bottle to pull away from it, some of it came out and hit some of the patrons.  A 25-year-old female suffered first and second degree burns, and a 56-year-old female had respiratory burns: Both women had to be airlifted to Tampa General Hospital for treatment. The two others who were burned refused treatment.",
+        "masked headline": "____ Burned in Fiery Dessert Disaster",
+        "calculation": "Add(2,2)",
+        "ans": "4"
+    },
+    {
+        "news": "(May 14, 2013  4:23 PM CDT) The headline crops up every so often, one about the  oldest person in the world  dying. But only a mathematician or someone in a macabre betting pool would wonder exactly how often, and that's what prompted the site Stackexchange to put the question to its math-loving readership. The site ended up with several dizzying formulas\u2014 for each age a, the number of people of age a in year t is the fraction of the population aged a\u22121 at time t\u22121 who don\u2019t die, i.e.N(t,a) (1\u2212h(a\u22121))\u00d7N(t\u22121,a\u22121) \u2014but most answers boiled to somewhere around 0.65 years, reports the Smithsonian.  Now, obviously, figuring out who the oldest person in the world is, is pretty hard,  writes Rose Eveleth.  But since most of us will never hold the title of oldest person in the world, we can at least savor the fact that, for at least a few seconds, we were at one point the youngest.",
+        "masked headline": "'Oldest Person' Title Changes Every .____ Years",
+        "calculation": "Multiply(0.65,100)",
+        "ans": "65"
+    },
+    {
+        "news": "(May 1, 2017  9:52 AM CDT) Marla Dixon was a 19-year-old mother-to-be who had gotten her prenatal care from the federally funded Jessie Trice Community Health Center in Miami. Nurses and midwives met with her along the way, and before giving birth to son Earl Reese-Thornton Jr. on Dec. 2, 2013, things had been progressing well. The birth, she alleged in a lawsuit, was disastrous. Earl Jr. had to be revived after entering the world and suffered permanent severe brain damage due to lack of oxygen. The judge agreed Dr. Ata Atogho was at fault, with the verdict noting he left her room for extended spells, once to speak to his stockbroker for eight minutes; with fetal heart rate monitors indicating the baby was in severe distress, the doctor also should have performed a C-section but didn't. The $33.8 million Dixon and her child will receive as a result won't cost Atogho a penny. That's because he wasn't the one being sued; rather, the US government was, as it's liable for any injuries its medical employees cause, explains the Miami Herald. Not only does Dixon say Atogho never apologized, she also says he lied, something backed up by the testimony of a nurse who noted Atogho wrote  refused c/s  [that's C-section] in Dixon's medical records; on the contrary, the nurse testified she yelled,  Just cut me.  Local 10 reports the judge in his order cited a defense expert who says the child will live only nine to 12 more years. Though the head of Jessie Trice says Atogho is no longer connected to its centers, he has not been reprimanded and his Florida medical license is currently  clear and active.  This in spite of three other teen moms who have sued over babies delivered by Atogho in 2013 who ended up brain damaged or disabled. (This woman sued her doctor after becoming pregnant when she thought she couldn't.)",
+        "masked headline": "Doctor Harmed Newborn, and It Cost Taxpayers $____M",
+        "calculation": "SRound(33.8,0)",
+        "ans": "33"
+    }
+]

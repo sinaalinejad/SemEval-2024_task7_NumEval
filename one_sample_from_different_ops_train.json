@@ -1,0 +1,68 @@
+[
+    {
+        "news": "(Oct 7, 2014  12:40 PM CDT) As of Jan. 1, Walmart will no longer offer 30,000 of its employees health insurance. Bloomberg notes that's about 2% of its workforce. The move comes as a reaction to the company's rising health care costs as far more of its employees and their families enrolled in its health care plans than it had expected following the ObamaCare rollout. The AP reports those costs will surge $500 million this fiscal year, $170 million more than had been estimated. Those affected are employees who average fewer than 30 hours of work per week; the Wall Street Journal explains they were grandfathered in when Walmart in 2012 stopped offering insurance to new hires who didn't exceed the 30-hour threshold. A benefits expert says Walmart is actually late to the game in terms of cutting insurance to some part-time workers; Target, the Home Depot, and others have already done so. Meanwhile, Walmart's full time workers will see their premiums rise in 2015. Premiums for the basic plan, which 40% of its workforce is on, will increase 19% to $21.90 per pay period come Jan. 1.",
+        "masked headline": "____K Walmart Part-Timers to Lose Health Insurance",
+        "calculation": "Paraphrase(30,000,K)",
+        "ans": "30"
+    },
+    {
+        "news": "(Oct 29, 2013  8:15 AM CDT) Dax Shepard and Kristen Bell got married at the Beverly Hills courthouse, in a ceremony about as different from Kim Kardashian's last wedding extravaganza as it is possible to be. As Shepard revealed last night on Jimmy Kimmel Live, the whole thing\u2014including the fuel it took to get to the courthouse\u2014cost $142.  It was just Kristen and I at this lonely courthouse,  he said, so friends showed up afterward with a cake reading, in icing,  The World's Worst Wedding.   How many people can say they threw the world's worst wedding?  Shepard asked.",
+        "masked headline": "Dax Shepard: Wedding to Kristen Bell Cost $____",
+        "calculation": "Copy(142)",
+        "ans": "142"
+    },
+    {
+        "news": "(Aug 24, 2008  7:18 AM CDT) No joke: Former Saturday Night Live star Chris Kattan has filed for a legal separation from the woman he married less than two months ago. The papers cite  irreconcilable differences  with model Sunshine Tutt, 31. Kattan, 37, met Tutt at a party three years ago and they married in Yosemite Valley. The couple has a prenuptial agreement, reports People.",
+        "masked headline": "SNL's Kattan Calls It Quits After ____-Month Marriage",
+        "calculation": "Trans(two)",
+        "ans": "2"
+    },
+    {
+        "news": "(Feb 14, 2014  6:04 AM) The last time Oscar Pistorius tweeted was Feb. 12, 2013, two days before he shot and killed girlfriend Reeva Steenkamp in what he maintains was a tragic accident in which he mistook her for an intruder. Today brought a new tweet:  A few words from my heart on oscarpistorius.com.  There, the double-amputee Olympian posted a brief statement. It reads in part:  No words can adequately capture my feelings about the devastating accident  that  consumes me with sorrow. The loss of Reeva and the complete trauma of that day, I will carry with me for the rest of my life.  Meanwhile, Steenkamp's parents, Barry and June, released a statement of their own.  All we are looking for is closure and to know that our daughter did not suffer on that tragic Valentine's Day,  they said, per the Guardian. Steenkamp's uncle noted a private family gathering would be held today in Cape Town to mark the anniversary.  We will release balloons in her memory,  he told the AFP.  They will be red and white, her favorite colors.  Steenkamp's parents also said a foundation, possibly focusing on women's abuse issues, would be set up in their daughter's honor once Pistorius' murder trial is over. It begins March 3.",
+        "masked headline": "____ Year After Shooting, Pistorius Speaks",
+        "calculation": "Subtract(2014,2013)",
+        "ans": "1"
+    },
+    {
+        "news": "(Mar 20, 2011  6:00 AM CDT) An 80-year-old woman and her 16-year-old grandson emerged today from the rubble in northeastern Japan, nine days after the 9.0 earthquake that leveled their two-story house. The teen, Jin Abe, finally managed to pull himself out of the wreckage, and authorities spotted him waving for help from the collapsed roof in Ishinomaki. Rescuers had to call for back-up to free his grandmother, Sumi Abe, reports the AP. Both were weak, but relatively unhurt and had survived on food in their refrigerator. Japanese television showed footage of Sumi Abe being removed from the house; she said she was unhurt and was able to give her name. Both Sumi and Jin Abe were taken to the hospital via helicopter.",
+        "masked headline": "Japan Pulls ____ Survivors From Rubble",
+        "calculation": "Add(80-year-old woman,16-year-old grandson)",
+        "ans": "2"
+    },
+    {
+        "news": "(Feb 15, 2016  9:52 AM) How do you say  large-scale tax avoidance  in Swedish? That's what a new report from the European Parliament's Greens/European Free Alliance group is accusing Ikea of, to the tune of $1.1 billion, per CNNMoney. The report alleges that the retail giant funneled money from its stores in highly taxed countries around Europe through a Dutch subsidiary, and possibly also through Luxembourg and Lichtenstein, so it could reap significant tax savings, notes Reuters. This type of  profit shifting \u2014in which headquarters for multinational companies are set up in low-taxed nations\u2014is common in Europe, CNN notes. Ikea's response, via a statement:  We pay our taxes in full compliance with national and international tax rules and regulations.  The European Commission says it's going to delve more into the supposed tax avoidance, which Reuters notes is alleged to have taken place over a six-year period. (Ikea has been taken to task on its minimum wage, too.)",
+        "masked headline": "Ikea Accused of Funneling Money, Evading $____B in Taxes",
+        "calculation": "Round(1.1,0)",
+        "ans": "1"
+    },
+    {
+        "news": "(Sep 3, 2009  3:42 PM CDT) Let\u2019s face it: Cats own the Internet. But it\u2019s getting a little much, and that\u2019s why the Urlesque blog is organizing  9.9.09\u2014A Day Without Cats on the Internet.  The master plan calls for cats not to be mentioned, emailed, viewed, nor blogged about. Urlesque is even polling readers about their other furry friend fetishes so it can run exclusive coverage of another animal.  Why only one day? Well let's be honest, that's probably only as long as we'll last...   \u2026before a hilarious video comes crashing into our inbox. But for one day, we will abstain... for you... for the cats.  Linda Holmes, writing on NPR\u2019s Monkey See blog, agrees.  We love a LOLcat, we love a keyboard cat,  but on Sept. 9 the blog  will not discuss cats, cat videos, adorable cats, or talented cats of any kind.  But that\u2019s days away, so Holmes has ample time to watch (and rewatch) her favorite vid, at left.",
+        "masked headline": "2 Much Kittehs on teh Interwebs; ____-Day Ban Planned",
+        "calculation": "Span(A Day)",
+        "ans": 1
+    },
+    {
+        "news": "(Jan 28, 2013  6:00 PM) Congress is sending a $50.5 billion emergency relief measure for Superstorm Sandy victims to President Obama for his signature. The Senate today cleared the bill, 62-36. Northeast lawmakers say the money is desperately needed to help recovery efforts from the one of the region's worst storms. The House passed the bill two weeks ago. The measure is aimed primarily at helping residents and businesses as well as state and local governments rebuild from the Oct. 29 storm. It passed despite opposition from fiscal conservatives worried about adding to deficits. Sandy roared up the East Coast and has been blamed for more than 130 deaths and billions of dollars in residential and business property damage. The biggest chunk of money is $16 billion for Housing and Urban Development Department community development block grants. Of that, about $12 billion will be shared among Sandy victims as well as those from other federally declared disasters in 2011-2013. Obama has said he will sign the bill.",
+        "masked headline": "Congress OKs $____B Sandy Aid Bill",
+        "calculation": "SRound(50.5,0)",
+        "ans": "50"
+    },
+    {
+        "news": "(Sep 11, 2015  5:24 PM CDT) The US will accept at least 10,000 Syrian refugees over the next year, and that's great\u2014but it's a drop in the bucket compared to the 800,000 Southeast Asian refugees we accepted after the Vietnam War. That's the argument in Mother Jones today, as writer Max J. Rosenthal quotes experts and activists who want to see the US do more.  Even if the US doesn't accept a large number of refugees\u2014the 10,000 that will now be allowed into the US is about half the number of refugees who arrived in Munich from Hungary last weekend\u2014merely taking action could help convince other nations to pitch in,  Rosenthal writes. Click for his full piece.",
+        "masked headline": "10K Syrian Refugees? We Once Did ____ Times That",
+        "calculation": "Divide(800,000,10,000)",
+        "ans": "80"
+    },
+    {
+        "news": "(Nov 16, 2009  2:23 PM) Moammar Gadhafi hired a couple of hundred attractive Italian women for the night, headed to the Libyan ambassador's place in Rome, shepherded them into a room, and ... tried to convert them to Islam. The Libyan dictator offered $75 for the evening, causing most of the women to assume they\u2019d be working as hostesses. Instead, after several were rejected for dressing too suggestively or being too short, the remaining women got a private lecture in which Gadhafi exhorted them to convert. Gadhafi, in Italy for a UN summit, distributed copies of the Koran and his book, The Green Book. He told them that he knew Jesus was not crucified\u2014 they crucified someone who looked like him,  he said. Most felt confused and dismayed.  We were at least expecting a snack,  an audience member told the Guardian.",
+        "masked headline": "Gadhafi Hires ____ Hot Italian Women, Tries to Convert Them",
+        "calculation": "Multiply(2,100)",
+        "ans": "200"
+    },
+    {
+        "news": "(Feb 13, 2013  6:54 PM) American Airlines and US Airways will merge and create the world's biggest airline. The boards of both companies approved the merger late today, according to three people close to the situation. The carrier keeps the American Airlines name but will be run by US Airways CEO Doug Parker. American's CEO, Tom Horton, will become chairman of the new company. A formal announcement is expected tomorrow morning. The deal has been in the works since August, when creditors forced American to consider a merger rather than remain independent. American has been restructuring under bankruptcy protection since late 2011. Together, American and US Airways will be slightly bigger than United Airlines.",
+        "masked headline": "American, US Airways to Create No. ____ Airline",
+        "calculation": " Span(the world's biggest airline)",
+        "ans": "1"
+    }
+]
